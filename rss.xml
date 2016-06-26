@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jonathan Elijah]]></title>
+        <description><![CDATA[Jonathan Elijah]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 26 Jun 2016 01:59:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, world!]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus arcu ligula, a tincidunt purus ullamcorper eu. Quisque turpis purus, congue a faucibus eget, ornare non orci. Nullam tempor eget nibh a euismod. Vivamus consectetur metus sit amet augue fermentum posuere. Proin elementum, lectus in volutpat pellentesque, dolor risus convallis lorem, sit amet feugiat enim eros nec nunc. Vivamus pretium lectus purus, nec auctor enim fermentum vitae. Duis non ante et ex mollis scelerisque. Integer rhoncus lorem et enim tristique, vitae sollicitudin augue rhoncus. Cras dapibus sit amet est sit amet laoreet. Quisque iaculis ipsum nisl, vel blandit nulla posuere ut. In elit libero, pharetra quis eros sed, finibus condimentum tortor.</p>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">d12703d1-beef-4207-af04-1495a08e2f5a</guid>
+            <pubDate>Sun, 26 Jun 2016 01:59:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
